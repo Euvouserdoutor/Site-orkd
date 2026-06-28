@@ -1,0 +1,471 @@
+{
+  "meta": {
+    "title": "Jefferson Queiroz — Medicina · IA · Web3 · Produto Digital",
+    "lang": "pt-BR",
+    "fonts": [
+      "Inter:wght@400;700;800;900"
+    ],
+    "email": "useleszboy@gmail.com"
+  },
+  "theme": {
+    "bg": "#030712",
+    "bgSoft": "#07111f",
+    "bgDeep": "#01040d",
+    "card": "rgba(8, 18, 34, 0.72)",
+    "cardStrong": "rgba(10, 25, 48, 0.88)",
+    "border": "rgba(148, 163, 184, 0.18)",
+    "borderBlue": "rgba(56, 189, 248, 0.28)",
+    "text": "#f8fafc",
+    "muted": "#94a3b8",
+    "mutedStrong": "#cbd5e1",
+    "blue": "#38bdf8",
+    "blueStrong": "#2563eb",
+    "cyan": "#22d3ee",
+    "violet": "#7c3aed",
+    "radiusXl": "28px",
+    "radiusLg": "22px"
+  },
+  "nav": {
+    "logo": "JQ.",
+    "links": [
+      {
+        "href": "#inicio",
+        "label": {
+          "pt": "Início",
+          "en": "Home"
+        }
+      },
+      {
+        "href": "#ecossistema",
+        "label": {
+          "pt": "Ecossistema",
+          "en": "Ecosystem"
+        }
+      },
+      {
+        "href": "#projetos",
+        "label": {
+          "pt": "Projetos",
+          "en": "Projects"
+        }
+      },
+      {
+        "href": "#proposito",
+        "label": {
+          "pt": "Propósito",
+          "en": "Purpose"
+        }
+      },
+      {
+        "href": "#construindo",
+        "label": {
+          "pt": "Construindo",
+          "en": "Building"
+        }
+      },
+      {
+        "href": "#manifesto",
+        "label": {
+          "pt": "Manifesto",
+          "en": "Manifesto"
+        }
+      },
+      {
+        "href": "#contato",
+        "label": {
+          "pt": "Contato",
+          "en": "Contact"
+        }
+      }
+    ],
+    "languages": [
+      "PT",
+      "EN"
+    ]
+  },
+  "hero": {
+    "id": "inicio",
+    "kicker": {
+      "pt": "Medicina · IA · Web3 · Produto Digital",
+      "en": "Medicine · AI · Web3 · Digital Product"
+    },
+    "title": {
+      "firstName": "Jefferson",
+      "lastName": "Queiroz"
+    },
+    "lead": {
+      "pt": "Acadêmico de Medicina na UFMG, fundador do EuVouSerDoutor e construtor de produtos digitais que unem educação médica, inteligência artificial, automações e Web3.",
+      "en": "Medical student at UFMG, founder of EuVouSerDoutor and builder of digital products that bridge medical education, artificial intelligence, automation and Web3."
+    },
+    "buttons": [
+      {
+        "type": "primary",
+        "href": "#ecossistema",
+        "label": {
+          "pt": "Conhecer o ecossistema",
+          "en": "Explore the ecosystem"
+        }
+      },
+      {
+        "type": "secondary",
+        "href": "#projetos",
+        "label": {
+          "pt": "Ver projetos",
+          "en": "View projects"
+        }
+      }
+    ],
+    "metrics": [
+      {
+        "value": "135K+",
+        "label": {
+          "pt": "comunidade",
+          "en": "community"
+        }
+      },
+      {
+        "value": "UFMG",
+        "label": {
+          "pt": "Medicina",
+          "en": "Medicine"
+        }
+      },
+      {
+        "value": "4",
+        "label": {
+          "pt": "frentes de construção",
+          "en": "building fronts"
+        }
+      }
+    ],
+    "codePanel": {
+      "filename": "ecossistema.js",
+      "code": "const jeffQueiroz = {\n  base: \"Medicina UFMG\",\n  founder: \"EuVouSerDoutor\",\n  building: [\"StudyNow\", \"IA\", \"Web3\", \"Automações\"],\n  thesis: \"estudo → sistema → produto → liberdade\",\n  status: \"building in public\"\n}"
+    }
+  },
+  "ecosystem": {
+    "id": "ecossistema",
+    "kicker": {
+      "pt": "O Ecossistema",
+      "en": "The Ecosystem"
+    },
+    "title": {
+      "pt": "Medicina como base.<br/>IA como velocidade.<br/>Produto como escala.",
+      "en": "Medicine as foundation.<br/>AI as speed.<br/>Product as scale."
+    },
+    "lead": {
+      "pt": "Jeff Queiroz constrói na intersecção entre formação médica, inteligência artificial, conteúdo educacional, automações e Web3. A tese é simples: conhecimento não precisa ficar parado em anotações. Ele pode virar método, sistema, comunidade e produto.",
+      "en": "Jeff Queiroz builds at the intersection of medical training, artificial intelligence, educational content, automation and Web3. The thesis is simple: knowledge doesn't have to stay stuck in notes. It can become method, system, community and product."
+    },
+    "cards": [
+      {
+        "num": "01",
+        "title": {
+          "pt": "Medicina",
+          "en": "Medicine"
+        },
+        "desc": {
+          "pt": "Base acadêmica, raciocínio clínico, estudo intenso e comunicação responsável.",
+          "en": "Academic foundation, clinical reasoning, intense study and responsible communication."
+        }
+      },
+      {
+        "num": "02",
+        "title": {
+          "pt": "Inteligência Artificial",
+          "en": "Artificial Intelligence"
+        },
+        "desc": {
+          "pt": "Ferramentas, prompts, agentes, automações e fluxos para acelerar estudo e produção.",
+          "en": "Tools, prompts, agents, automations and flows to accelerate study and production."
+        }
+      },
+      {
+        "num": "03",
+        "title": {
+          "pt": "Conteúdo",
+          "en": "Content"
+        },
+        "desc": {
+          "pt": "Educação médica transformada em linguagem visual, clara e distribuível.",
+          "en": "Medical education transformed into visual, clear and distributable language."
+        }
+      },
+      {
+        "num": "04",
+        "title": {
+          "pt": "Produto Digital",
+          "en": "Digital Product"
+        },
+        "desc": {
+          "pt": "StudyNow, páginas, sistemas, plataformas e experiências que organizam conhecimento.",
+          "en": "StudyNow, pages, systems, platforms and experiences that organize knowledge."
+        }
+      },
+      {
+        "num": "05",
+        "title": {
+          "pt": "Web3",
+          "en": "Web3"
+        },
+        "desc": {
+          "pt": "Miniapps, Base, Farcaster, comunidade, ativos digitais e novas formas de distribuição.",
+          "en": "Miniapps, Base, Farcaster, community, digital assets and new forms of distribution."
+        }
+      },
+      {
+        "num": "06",
+        "title": {
+          "pt": "Execução",
+          "en": "Execution"
+        },
+        "desc": {
+          "pt": "A diferença entre ideia e impacto: construir, testar, ajustar e publicar.",
+          "en": "The difference between idea and impact: build, test, adjust and publish."
+        }
+      }
+    ]
+  },
+  "projects": {
+    "id": "projetos",
+    "kicker": {
+      "pt": "Projetos vivos",
+      "en": "Live projects"
+    },
+    "title": {
+      "pt": "Não é portfólio.<br/>É um sistema em expansão.",
+      "en": "Not a portfolio.<br/>It's an expanding system."
+    },
+    "lead": {
+      "pt": "Cada projeto nasce de uma necessidade real: estudar melhor, ensinar com mais clareza, automatizar produção, criar produto e explorar novas formas de comunidade digital.",
+      "en": "Each project is born from a real need: study better, teach with more clarity, automate production, create product and explore new forms of digital community."
+    },
+    "items": [
+      {
+        "featured": true,
+        "tag": {
+          "pt": "Principal",
+          "en": "Main"
+        },
+        "sub": {
+          "pt": "Educação médica",
+          "en": "Medical education"
+        },
+        "name": "EuVouSerDoutor",
+        "desc": {
+          "pt": "Comunidade e conteúdo para pré-meds e estudantes de Medicina. Método, rotina, revisão ativa, provas, mapas e comunicação clara para quem quer evoluir com sistema.",
+          "en": "Community and content for pre-meds and medical students. Method, routine, active recall, exams, maps and clear communication for those who want to evolve with a system."
+        },
+        "tags": [
+          "135K+",
+          "Medicina",
+          "Conteúdo",
+          "Comunidade"
+        ]
+      },
+      {
+        "tag": {
+          "pt": "Produto",
+          "en": "Product"
+        },
+        "sub": {
+          "pt": "Estudo inteligente",
+          "en": "Smart study"
+        },
+        "name": "StudyNow",
+        "desc": {
+          "pt": "Plataforma de estudo com IA, organização cognitiva, repetição espaçada e estrutura para transformar estudo em sistema.",
+          "en": "AI-powered study platform with cognitive organization, spaced repetition and structure to turn study into a system."
+        },
+        "tags": [
+          "IA",
+          "FSRS",
+          "Estudo"
+        ]
+      },
+      {
+        "tag": {
+          "pt": "Sistema",
+          "en": "System"
+        },
+        "sub": {
+          "pt": "IA pessoal",
+          "en": "Personal AI"
+        },
+        "name": "Codex / IA",
+        "desc": {
+          "pt": "Ambiente de comandos, agentes, automações, prompts, organização de projetos e execução assistida por inteligência artificial.",
+          "en": "Command environment, agents, automations, prompts, project organization and AI-assisted execution."
+        },
+        "tags": [
+          "Prompts",
+          "Agentes",
+          "Automação"
+        ]
+      },
+      {
+        "tag": {
+          "pt": "Experimentos",
+          "en": "Experiments"
+        },
+        "sub": {
+          "pt": "Onchain",
+          "en": "Onchain"
+        },
+        "name": "Web3 / Miniapps",
+        "desc": {
+          "pt": "Exploração de Base, Farcaster, miniapps, smart contracts, airdrops e novas formas de comunidade e distribuição digital.",
+          "en": "Exploration of Base, Farcaster, miniapps, smart contracts, airdrops and new forms of community and digital distribution."
+        },
+        "tags": [
+          "Base",
+          "Farcaster",
+          "Miniapps"
+        ]
+      }
+    ]
+  },
+  "purpose": {
+    "id": "proposito",
+    "kicker": {
+      "pt": "Por que isso importa",
+      "en": "Why it matters"
+    },
+    "title": {
+      "pt": "Estudo vira sistema.<br/>Sistema vira produto.<br/>Produto vira liberdade.",
+      "en": "Study becomes system.<br/>System becomes product.<br/>Product becomes freedom."
+    },
+    "points": [
+      {
+        "title": {
+          "pt": "Não é só estudar Medicina.",
+          "en": "It's not just studying Medicine."
+        },
+        "desc": {
+          "pt": "É transformar aprendizado difícil em método, revisão, clareza e sistemas que outras pessoas também conseguem usar.",
+          "en": "It's turning hard learning into method, review, clarity and systems that others can use too."
+        }
+      },
+      {
+        "title": {
+          "pt": "Não é só criar conteúdo.",
+          "en": "It's not just creating content."
+        },
+        "desc": {
+          "pt": "É construir distribuição, autoridade, comunidade e produtos em volta de uma tese clara.",
+          "en": "It's building distribution, authority, community and products around a clear thesis."
+        }
+      },
+      {
+        "title": {
+          "pt": "Não é só usar IA.",
+          "en": "It's not just using AI."
+        },
+        "desc": {
+          "pt": "É operar ferramentas como extensão da mente: estudar, escrever, automatizar, revisar, construir e publicar com mais velocidade.",
+          "en": "It's operating tools as an extension of the mind: study, write, automate, review, build and publish faster."
+        }
+      }
+    ]
+  },
+  "building": {
+    "id": "construindo",
+    "kicker": {
+      "pt": "Construindo em público",
+      "en": "Building in public"
+    },
+    "title": {
+      "pt": "O ecossistema está vivo.",
+      "en": "The ecosystem is alive."
+    },
+    "lead": {
+      "pt": "A construção acontece em camadas: estudo médico, conteúdo, páginas, automações, produtos digitais, miniapps e sistemas de IA. Nada fica parado na ideia.",
+      "en": "Building happens in layers: medical study, content, pages, automations, digital products, miniapps and AI systems. Nothing stays stuck as an idea."
+    },
+    "items": [
+      {
+        "pt": "Revisões médicas e materiais de estudo",
+        "en": "Medical reviews and study materials"
+      },
+      {
+        "pt": "Conteúdo para EuVouSerDoutor",
+        "en": "Content for EuVouSerDoutor"
+      },
+      {
+        "pt": "StudyNow e sistemas de aprendizagem",
+        "en": "StudyNow and learning systems"
+      },
+      {
+        "pt": "Automações com IA e agentes",
+        "en": "Automations with AI and agents"
+      },
+      {
+        "pt": "Miniapps, Base e Farcaster",
+        "en": "Miniapps, Base and Farcaster"
+      },
+      {
+        "pt": "Produtos digitais escaláveis",
+        "en": "Scalable digital products"
+      }
+    ]
+  },
+  "cta": {
+    "id": "manifesto",
+    "kicker": {
+      "pt": "Jeff Queiroz",
+      "en": "Jeff Queiroz"
+    },
+    "title": {
+      "pt": "Isso não é apenas uma página pessoal.<br/>É o início de um ecossistema.",
+      "en": "This is not just a personal page.<br/>It's the beginning of an ecosystem."
+    },
+    "desc": {
+      "pt": "Medicina, inteligência artificial, conteúdo, produto digital e Web3 sendo construídos em tempo real.",
+      "en": "Medicine, artificial intelligence, content, digital product and Web3 being built in real time."
+    },
+    "buttons": [
+      {
+        "type": "primary",
+        "href": "mailto:useleszboy@gmail.com",
+        "label": {
+          "pt": "Entrar em contato",
+          "en": "Get in touch"
+        }
+      },
+      {
+        "type": "secondary",
+        "href": "#projetos",
+        "label": {
+          "pt": "Ver projetos",
+          "en": "View projects"
+        }
+      }
+    ]
+  },
+  "footer": {
+    "id": "contato",
+    "wordmark": "QUEIROZ.",
+    "links": [
+      {
+        "href": "https://instagram.com/euvouserdoutor",
+        "label": "Instagram"
+      },
+      {
+        "href": "https://warpcast.com/useleszboy",
+        "label": "Warpcast"
+      },
+      {
+        "href": "https://linkedin.com",
+        "label": "LinkedIn"
+      },
+      {
+        "href": "mailto:useleszboy@gmail.com",
+        "label": "E-mail"
+      }
+    ],
+    "copy": {
+      "pt": "© 2026 Jefferson Queiroz.<br/>Medicina · IA · Web3 · Produto Digital.",
+      "en": "© 2026 Jefferson Queiroz.<br/>Medicine · AI · Web3 · Digital Product."
+    }
+  }
+}
